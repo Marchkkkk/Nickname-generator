@@ -20,7 +20,6 @@ for x in range(1,amount +1):
     Nickname = part1+part2+part3
 
     f.write(Nickname + '\n')
-    print(Nickname)
 
 f.close()
 
