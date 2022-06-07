@@ -9,7 +9,7 @@ amount = int (input('Amount of nicknames: '))
 
 f = open('Nicknames.txt','w+')
 
-with open("myfile.txt") as inp:
+with open("data.txt") as inp:
     lines = inp.readlines()
 
 for x in range(1,amount +1):
