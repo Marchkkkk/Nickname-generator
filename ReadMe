@@ -1,0 +1,9 @@
+It's simple nickname generator
+
+ Important:
+ Files Nicknamegen.py and data.txt must be in the same folder!
+ 
+ instruction:
+  1. Start Nicknamegen.py
+  2. Enter needed amount of nicknames
+  3. See your result in Nicknames.txt
